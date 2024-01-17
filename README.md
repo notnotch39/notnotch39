@@ -7,7 +7,7 @@
 
 <hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOT39&langs_count=8&theme=tokyonight" alt="Anurag's GitHub stats" align="right"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notnotch39&langs_count=8&theme=tokyonight" alt="Anurag's GitHub stats" align="right"></a>
 
 ## 🛠️ Skills
 
